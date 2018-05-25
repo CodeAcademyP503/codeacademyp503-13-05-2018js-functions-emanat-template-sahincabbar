@@ -1,0 +1,1525 @@
+.parent {
+    height: 100px;
+    margin: 0px auto;
+    display: flex;
+    margin-top: 30px;
+}
+
+.mainparent {
+    width: 1200px;
+    height: 150px;
+    background: rgb(29, 135, 198);
+    margin: 0 auto;
+    margin-top: 50px;
+    border-radius: 15px;
+}
+
+.mainchild {
+    width: 200px;
+    background: rgb(5, 72, 153);
+    height: 85px;
+    cursor: pointer;
+    border-radius: 15px;
+}
+
+.smalldivs {
+    width: 244px;
+    height: 150px;
+}
+
+.mainchilds {
+    width: 200px;
+    background: rgb(5, 72, 153);
+    height: 125px;
+    cursor: pointer;
+    border-radius: 15px;
+    margin: 4px;
+}
+
+.mainchilds:nth-child(8) {
+    overflow: hidden;
+}
+
+.divlog9 {
+    width: 100%;
+    height: 100%;
+    border-radius: 15px;
+}
+
+._secondParents {
+    display: flex;
+    width: 1041px;
+    position: relative;
+    margin: 0 auto;
+    flex-wrap: wrap;
+    top: 10px;
+}
+
+.DivChildren {
+    height: 150px;
+    border: 1px solid black;
+    cursor: pointer;
+    margin: 4px;
+    border-radius: 15px;
+}
+
+.DivLogos1 {
+    width: 215px;
+    padding-left: 17px;
+    padding-top: 50px;
+}
+
+.DivLogos2 {
+    width: 250px;
+    padding-top: 25px;
+}
+
+.wifi {
+    width: 106px;
+    position: relative;
+    top: 19px;
+    left: 8px;
+}
+
+.__SecondParents {
+    display: flex;
+    width: 1041px;
+    position: relative;
+    margin: 0 auto;
+    flex-wrap: wrap;
+    top: 10px;
+}
+
+.divlog8 {
+    width: 100%;
+    height: 100%;
+}
+
+.mainchilds:nth-child(3) {
+    border: 1px solid black;
+    cursor: pointer;
+}
+
+.mainchilds:nth-child(5) {
+    border: 1px solid black;
+    cursor: pointer;
+}
+
+.mainchilds:nth-child(7) {
+    border: 1px solid black;
+    cursor: pointer;
+}
+
+.headerings {
+    margin: 0;
+    color: #fff;
+    position: relative;
+    top: -93px;
+    left: 160px;
+}
+
+.country {
+    width: 75px;
+    padding-left: 12px;
+}
+
+._SecondParent {
+    display: flex;
+    width: 1100px;
+    position: relative;
+    margin: 0 auto;
+    flex-wrap: wrap;
+    top: 10px;
+}
+
+.Children {
+    border: 1px solid black;
+    width: 250px;
+    background: white;
+    height: 150px;
+    cursor: pointer;
+    border-radius: 15px;
+    margin: 4px;
+}
+
+.headers {
+    margin: 0;
+    padding: 0;
+    margin-left: 165px;
+    color: #fff;
+    line-height: 26px;
+}
+
+.bill {
+    width: 63px;
+    padding-left: 40px;
+}
+
+.divlog11 {
+    width: 100%;
+    padding-top: 17px;
+    border-radius: 15px;
+}
+
+.mainchilds:nth-child(11) {
+    border: 1px solid black;
+    cursor: pointer;
+}
+
+.mainchilds:nth-child(12) {
+    border: 1px solid black;
+    cursor: pointer;
+}
+
+.divlog12 {
+    width: 100%;
+    padding-top: 27px;
+    border-radius: 15px;
+}
+
+.mainchilds:nth-child(16) {
+    border: 1px solid black;
+    cursor: pointer;
+}
+
+.mainchilds:nth-child(14) {
+    border: 1px solid black;
+    cursor: pointer;
+}
+
+.DivLogos3 {
+    width: 100%;
+    border-radius: 15px;
+}
+
+.mainchilds:nth-child(15) {
+    border: 1px solid black;
+    cursor: pointer;
+}
+
+.DivLogos4 {
+    width: 245px;
+    padding-left: 15px;
+    padding-top: 44px;
+}
+
+._divimages6 {
+    width: 230px;
+    padding-left: 10px;
+    padding-top: 34px;
+}
+
+._divimages4 {
+    width: 200px;
+    padding-left: 20px;
+    padding-top: 34px;
+}
+
+._divimages5 {
+    width: 210px;
+    padding-left: 20px;
+    padding-top: 15px;
+}
+
+.__SeconDParent {
+    display: flex;
+    width: 1040px;
+    position: relative;
+    margin: 0 auto;
+    flex-wrap: wrap;
+    top: 10px;
+}
+
+._Children {
+    width: 250px;
+    background: white;
+    border: 1px solid black;
+    cursor: pointer;
+    height: 150px;
+    border-radius: 15px;
+    margin: 4px;
+}
+
+._divimages1 {
+    width: 235px;
+    padding-top: 25px;
+    padding-left: 10px;
+}
+
+._divimages2 {
+    width: 250px;
+    padding-top: 43px;
+}
+
+._divimages3 {
+    width: 250px;
+    padding-top: 42px;
+}
+
+.HeadeR {
+    margin: 0;
+    position: relative;
+    top: -91px;
+    left: 135px;
+    color: #fff;
+}
+
+.wallet {
+    width: 62px;
+    padding-top: 47px;
+    padding-left: 15px;
+}
+
+.SmallDivS {
+    width: 270px;
+    height: 150px;
+}
+
+.SmallDivs {
+    width: 190px;
+    height: 150px;
+}
+
+.fun {
+    width: 65px;
+    padding-top: 44px;
+    padding-left: 15px;
+}
+
+.divlog16 {
+    width: 90%;
+    padding-top: 31px;
+    padding-left: 12px;
+}
+
+.divlog15 {
+    width: 100%;
+    padding-top: 25px;
+    border-radius: 15px;
+}
+
+.divlog14 {
+    width: 95%;
+    border-radius: 15px;
+    padding-left: 4px;
+}
+
+.divlog13 {
+    width: 100%;
+    height: 100%;
+    border-radius: 15px;
+}
+
+.mainchilds:nth-child(10) {
+    border: 1px solid black;
+    cursor: pointer;
+}
+
+.divlog10 {
+    width: 50%;
+    height: 110px;
+    border-radius: 15px;
+    padding-top: 8px;
+    padding-left: 62px;
+}
+
+.logocontainer {
+    width: 180px;
+    float: right;
+    position: relative;
+    top: -49px;
+    right: 20px;
+}
+
+.mainchildren:nth-child(5) {
+    border: 1px solid rgb(68, 128, 28);
+    cursor: pointer;
+}
+
+.divlogos4 {
+    width: 0;
+    height: 0;
+}
+
+.divlogos1 {
+    width: 147px;
+    padding-left: 53px;
+    position: relative;
+    top: -12px;
+}
+
+.divimage1 {
+    width: 140px;
+    padding-left: 61px;
+    padding-top: 26px;
+}
+
+.divimage2 {
+    width: 220px;
+    padding-left: 14px;
+    padding-top: 48px;
+}
+
+.divimage3 {
+    width: 190px;
+    padding-left: 29px;
+    padding-top: 36px;
+}
+
+.divimage4 {
+    width: 135px;
+    padding-left: 56px;
+    padding-top: 7px;
+}
+
+.divimage5 {
+    width: 200px;
+    padding-left: 25px;
+    padding-top: 53px;
+}
+
+.divimage6 {
+    width: 215px;
+    padding-left: 18px;
+    padding-top: 57px;
+}
+
+.divimage9 {
+    width: 245px;
+    padding-top: 53px;
+}
+
+.divimage7 {
+    width: 210px;
+    padding-left: 21px;
+    padding-top: 44px;
+}
+
+.divimage8 {
+    width: 150px;
+    padding-left: 50px;
+}
+
+.divimage10 {
+    width: 210px;
+    padding-left: 19px;
+    padding-top: 24px;
+}
+
+.divimage11 {
+    width: 190px;
+    padding-left: 32px;
+    padding-top: 31px;
+}
+
+.divimage12 {
+    width: 210px;
+    padding-left: 20px;
+    padding-top: 60px;
+}
+
+.divimage13 {
+    width: 150px;
+    padding-left: 50px;
+}
+
+.divlogos3 {
+    width: 173px;
+    padding-left: 39px;
+}
+
+.divlogos2 {
+    width: 216px;
+    padding-left: 17px;
+    padding-top: 37px;
+}
+
+body {
+    height: 711px;
+}
+
+.divlogos5 {
+    width: 100%;
+    height: 100%;
+    border-radius: 15px;
+}
+
+.divlogos6 {
+    width: 70px;
+    padding-top: 19px;
+    padding-left: 160px;
+}
+
+.footer {
+    width: 1534px;
+    height: 46px;
+    position: relative;
+    text-align: center;
+    background: #f4f4f4;
+    line-height: 50px;
+    top: -40px;
+}
+
+.secondparent {
+    display: flex;
+    width: 725px;
+    position: relative;
+    top: -45px;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    border-radius: 5px;
+}
+
+body {
+    margin: 0;
+}
+
+.burn {
+    width: 60px;
+    height: 60px;
+    padding-left: 8px;
+}
+
+.texts0 {
+    margin: 0;
+    padding: 0;
+}
+
+.texts1 {
+    margin: 0;
+    padding: 0;
+}
+
+.phone {
+    width: 58px;
+    padding-top: 49px;
+    padding-left: 15px;
+}
+
+.texts2 {
+    margin: 0;
+    padding: 0;
+}
+
+.Headerings {
+    margin: 0;
+    position: relative;
+    top: -91px;
+    left: 132px;
+    color: #fff;
+}
+
+.texts3 {
+    font-size: 10px;
+    color: #fff;
+    padding-left: 6px;
+    line-height: 56px;
+}
+
+.Smalldivs {
+    width: 200px;
+    height: 151px;
+}
+
+.texts4 {
+    margin: 0;
+    padding: 0;
+}
+
+.texts5 {
+    font-size: 10px;
+    color: #fff;
+    margin: 0;
+    position: relative;
+    width: 144px;
+    line-height: 28px;
+    padding-left: 22px;
+    top: -90px;
+}
+
+.line {
+    width: 60px;
+    height: 60px;
+    transform: rotate(90deg);
+}
+
+.smalldiv {
+    position: relative;
+    top: 46px;
+    width: 254px;
+}
+
+.lamp1 {
+    width: 60px;
+    height: 60px;
+    transform: rotate(180deg);
+}
+
+.water1 {
+    width: 60px;
+    height: 6 0px;
+}
+
+.water {
+    width: 50px;
+    cursor: pointer;
+    height: 50px;
+    z-index: 5;
+    position: relative;
+    top: -5px;
+    left: 9px;
+}
+
+.homebutton {
+    width: 200px;
+    height: 75px;
+    margin-left: 690px;
+    margin-top: 60px;
+    border: none;
+    outline: none;
+    font-size: 33px;
+    cursor: pointer;
+    color: #fff;
+    user-select: none;
+    background: red;
+    border-radius: 15px;
+}
+
+.lamp {
+    width: 50px;
+    cursor: pointer;
+    height: 50px;
+    position: relative;
+    transform: rotateX(180deg);
+    top: -10px;
+    z-index: 5;
+}
+
+._secondParent {
+    display: flex;
+    width: 1032px;
+    position: relative;
+    margin: 0 auto;
+    flex-wrap: wrap;
+    top: 10px;
+}
+
+.__divlogos1 {
+    width: 105px;
+    padding-top: 8px;
+    padding-left: 75px;
+}
+
+.__divlogos2 {
+    width: 100%;
+    border-radius: 15px;
+    padding-top: 31px;
+}
+
+.__divlogos3 {
+    width: 100%;
+    border-radius: 15px;
+    padding-top: 36px;
+}
+
+.__divlogos4 {
+    padding-left: 37px;
+    padding-top: 18px;
+}
+
+.__divlogos5 {
+    width: 130px;
+    padding-left: 65px;
+}
+
+.__divlogos6 {
+    width: 110px;
+    padding-left: 73px;
+    padding-top: 4px;
+}
+
+.__divlogos7 {
+    width: 150px;
+    padding-left: 52px;
+    padding-top: 21px;
+}
+
+.__divlogos8 {
+    width: 210px;
+    padding-left: 19px;
+    padding-top: 43px;
+}
+
+.__divlogos9 {
+    width: 180px;
+    padding-left: 37px;
+    padding-top: 25px;
+}
+
+.__divlogos10 {
+    width: 115px;
+    padding-left: 67px;
+    padding-top: 8px;
+}
+
+.__secondparent {
+    display: flex;
+    width: 1047px;
+    position: relative;
+    top: 4px;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    border-radius: 5px;
+}
+
+.__secondParent {
+    display: flex;
+    width: 780px;
+    position: relative;
+    margin: 0 auto;
+    flex-wrap: wrap;
+    top: 10px;
+}
+
+._SecondParents {
+    display: flex;
+    width: 1041px;
+    position: relative;
+    margin: 0 auto;
+    flex-wrap: wrap;
+    top: 10px;
+}
+
+.Divchildren {
+    width: 250px;
+    background: white;
+    border: 1px solid black;
+    border-radius: 15px;
+    height: 150px;
+    margin: 4px;
+    cursor: pointer;
+}
+
+._divlogo1 {
+    width: 101%;
+    padding-top: 34px;
+}
+
+.Divlogos1 {
+    width: 170px;
+    padding-left: 40px;
+    padding-top: 18px;
+}
+
+.Divlogos4 {
+    width: 200px;
+    padding-left: 25px;
+    padding-top: 12px;
+}
+
+.Divlogos2 {
+    width: 215px;
+    padding-left: 17px;
+    padding-top: 50px;
+}
+
+.Divlogos3 {
+    padding-left: 50px;
+}
+
+._texted1 {
+    margin: 0;
+    position: relative;
+    color: #fff;
+    top: -99px;
+    width: 158px;
+    left: 90px;
+    font-size: 29px;
+}
+
+._texted2 {
+    margin: 0;
+    position: relative;
+    top: -60px;
+    width: 179px;
+    left: 79px;
+    font-size: 24px;
+}
+
+._divlogo2 {
+    width: 75px;
+    padding-top: 20px;
+}
+
+._divlogo3 {
+    width: 75px;
+    padding-top: 20px;
+}
+
+.mainchild {
+    margin: 4px;
+    height: 120px;
+}
+
+.mainchild:nth-child(5) {
+    border: 1px solid black;
+    cursor: pointer;
+}
+
+.television {
+    width: 66px;
+    padding-left: 15px;
+}
+
+.headering {
+    margin: 0;
+    color: #fff;
+    padding-left: 133px;
+    line-height: 27px;
+}
+
+.mainchildren {
+    margin: 4px;
+    height: 120px;
+    cursor: pointer;
+    border-radius: 15px;
+}
+
+.mainchildren:last-child {
+    border: 1px solid black;
+    cursor: pointer;
+}
+
+.mainchildrens {
+    margin: 4px;
+    height: 120px;
+    border-radius: 15px;
+    cursor: pointer;
+}
+
+.mainchildrens:first-child {
+    border: 1px solid black;
+    cursor: pointer;
+}
+
+.mainchildrens:nth-child(2) {
+    border: 1px solid black;
+    cursor: pointer;
+}
+
+.mainchildrens:nth-child(5) {
+    border: 1px solid black;
+    cursor: pointer;
+}
+
+.mainchildrens:nth-child(4) {
+    border: 1px solid black;
+    cursor: pointer;
+}
+
+.mainchildrens:nth-child(10) {
+    border: 1px solid black;
+    cursor: pointer;
+}
+
+.mainchildrens:nth-child(6) {
+    border: 1px solid black;
+    cursor: pointer;
+}
+
+.mainchildrens:nth-child(7) {
+    border: 1px solid black;
+    cursor: pointer;
+}
+
+.mainchildrens:nth-child(8) {
+    border: 1px solid black;
+    cursor: pointer;
+}
+
+.mainchildrens:nth-child(9) {
+    border: 1px solid black;
+    cursor: pointer;
+}
+
+.mainchildrens:nth-child(11) {
+    border: 1px solid black;
+    cursor: pointer;
+}
+
+.mainchildrens:nth-child(3) {
+    border: 1px solid black;
+    cursor: pointer;
+}
+
+.divlogo1 {
+    width: 209px;
+    padding-top: 31px;
+    padding-left: 17px;
+}
+
+.divlogo2 {
+    width: 209px;
+    padding-top: 37px;
+    padding-left: 19px;
+}
+
+.divlogo3 {
+    width: 120px;
+    padding-left: 66px;
+}
+
+.divlogo4 {
+    width: 150px;
+    padding-top: 24px;
+    padding-left: 48px;
+}
+
+.divlogo6 {
+    width: 70px;
+    padding-left: 172px;
+    padding-top: 27px;
+}
+
+.texted5 {
+    font-size: 10px;
+    color: #fff;
+    margin: 0;
+    position: relative;
+    width: 157px;
+    line-height: 28px;
+    padding-left: 22px;
+    top: -81px;
+}
+
+.divlogo5 {
+    width: 201px;
+    padding-top: 3px;
+    padding-left: 23px;
+}
+
+.header {
+    margin: 0;
+    padding: 0;
+    margin-left: 241px;
+    color: #fff;
+    line-height: 26px;
+}
+
+.divlog1 {
+    width: 175px;
+    padding-top: 30px;
+    padding-left: 41px;
+}
+
+.divlog3 {
+    width: 224px;
+    border-radius: 15px;
+    padding-left: 10px;
+    padding-top: 4px;
+}
+
+.divlog5 {
+    width: 170px;
+    padding-top: 5px;
+    padding-left: 36px;
+}
+
+.divlog7 {
+    width: 231px;
+    padding-top: 17px;
+}
+
+.divlog6 {
+    width: 250px;
+    padding-top: 12px;
+}
+
+.divlog2 {
+    width: 250px;
+    padding-top: 26px
+}
+
+.divlog4 {
+    width: 239px;
+    padding-top: 44px;
+    padding-left: 5px;
+}
+
+.smalldiv1 {
+    width: 144px;
+    position: relative;
+    top: 39px;
+    left: 17px
+}
+
+.header1 {
+    margin: 0;
+    padding-left: 154px;
+    color: #fff;
+    line-height: 12px;
+}
+
+.smalldiv1 img {
+    width: 70px;
+}
+
+._txt0 {
+    margin: 0;
+    font-size: 14px;
+    color: #fff;
+    line-height: 28px;
+    margin-top: 18px;
+    text-align: center;
+}
+
+._txt1 {
+    margin: 0;
+    font-size: 14px;
+    color: #fff;
+    line-height: 28px;
+    margin-top: 5px;
+    text-align: center;
+}
+
+._txt2 {
+    margin: 0;
+    font-size: 14px;
+    color: #fff;
+    line-height: 18px;
+    text-align: center;
+}
+
+._txt3 {
+    margin: 0;
+    font-size: 14px;
+    color: #fff;
+    line-height: 28px;
+    text-align: center;
+}
+
+._txt4 {
+    margin: 0;
+    font-size: 14px;
+    color: #fff;
+    line-height: 28px;
+    text-align: center;
+}
+
+._txt5 {
+    margin: 0;
+    font-size: 14px;
+    color: #fff;
+    line-height: 5px;
+    text-align: center;
+}
+
+.__txt0 {
+    margin: 0;
+    font-size: 14px;
+    color: #fff;
+    margin-top: 4px;
+    line-height: 28px;
+    text-align: center;
+}
+
+.__txt1 {
+    margin: 0;
+    font-size: 14px;
+    color: #fff;
+    line-height: 24px;
+    text-align: center;
+}
+
+.__txt2 {
+    margin: 0;
+    font-size: 14px;
+    color: #fff;
+    line-height: 20px;
+    text-align: center;
+}
+
+.__txt3 {
+    margin: 0;
+    font-size: 14px;
+    color: #fff;
+    line-height: 28px;
+    text-align: center;
+}
+
+.__txt4 {
+    margin: 0;
+    font-size: 14px;
+    color: #fff;
+    line-height: 28px;
+    text-align: center;
+}
+
+.__txt5 {
+    margin: 0;
+    font-size: 14px;
+    color: #fff;
+    line-height: 6px;
+    text-align: center;
+}
+
+.__txt6 {
+    margin: 0;
+    font-size: 14px;
+    color: #fff;
+    line-height: 44px;
+    text-align: center;
+}
+
+.__txt7 {
+    margin: 0;
+    font-size: 14px;
+    color: #fff;
+    line-height: 23px;
+    text-align: center;
+}
+
+.__txt8 {
+    margin: 0;
+    font-size: 14px;
+    color: #fff;
+    line-height: 45px;
+    text-align: center;
+}
+
+.__txt0 h1 {
+    font-weight: 500;
+    margin: 0;
+}
+
+.__txt1 h1 {
+    font-weight: 500;
+    margin: 0;
+}
+
+.__txt2 h1 {
+    font-weight: 500;
+    margin: 0;
+}
+
+.__txt3 h1 {
+    font-weight: 500;
+    margin: 0;
+}
+
+.__txt4 h1 {
+    font-weight: 500;
+    margin: 0;
+}
+
+.__txt5 h1 {
+    font-weight: 500;
+    margin: 0;
+}
+
+.__txt6 h1 {
+    font-weight: 500;
+    margin: 0;
+}
+
+.__txt7 h1 {
+    font-weight: 500;
+    margin: 0;
+}
+
+.__txt8 h1 {
+    font-weight: 500;
+    margin: 0;
+}
+
+._txt6 {
+    margin: 0;
+    font-size: 14px;
+    color: #fff;
+    line-height: 45px;
+    text-align: center;
+}
+
+._txt7 {
+    margin: 0;
+    font-size: 14px;
+    color: #fff;
+    line-height: 23px;
+    text-align: center;
+}
+
+._txt8 {
+    margin: 0;
+    font-size: 14px;
+    color: #fff;
+    line-height: 42px;
+    text-align: center;
+}
+
+._txt0 h1 {
+    font-weight: 500;
+    margin: 0;
+}
+
+._txt1 h1 {
+    font-weight: 500;
+    margin: 0;
+}
+
+._txt2 h1 {
+    font-weight: 500;
+    margin: 0;
+}
+
+._txt3 h1 {
+    font-weight: 500;
+    margin: 0;
+}
+
+._txt4 h1 {
+    font-weight: 500;
+    margin: 0;
+}
+
+._txt5 h1 {
+    font-weight: 500;
+    margin: 0;
+}
+
+._txt6 h1 {
+    font-weight: 500;
+    margin: 0;
+}
+
+._txt7 h1 {
+    font-weight: 500;
+    margin: 0;
+}
+
+._txt8 h1 {
+    font-weight: 500;
+    margin: 0;
+}
+
+.logodiv {
+    position: relative;
+    left: 489px;
+    top: 39px;
+    height: 46px;
+    width: 153px;
+}
+
+.secondlogos0 {
+    width: 50px;
+    margin-left: 44px;
+    margin-top: 28px;
+}
+
+.secondlogos1 {
+    width: 83px;
+    margin-left: 85px;
+    margin-top: 9px;
+}
+
+.secondlogos2 {
+    width: 100px;
+    margin-left: 64px;
+    margin-top: 3px;
+}
+
+.secondlogos3 {
+    width: 75px;
+    margin-left: 81px;
+    margin-top: 7px;
+}
+
+.secondlogos4 {
+    width: 90px;
+    margin-left: 70px;
+    margin-top: 15px;
+}
+
+.txt0 {
+    margin: 0;
+    font-size: 14px;
+    color: #fff;
+    line-height: 28px;
+    text-align: center;
+}
+
+.txt0 h1 {
+    margin: 0;
+    font-weight: 500;
+}
+
+.txt1 h1 {
+    margin: 0;
+    font-weight: 500;
+}
+
+.txt2 h1 {
+    margin: 0;
+    font-weight: 500;
+}
+
+.txt3 h1 {
+    font-weight: 500;
+    margin: 0;
+}
+
+.txt4 h1 {
+    margin: 0;
+    font-weight: 500;
+}
+
+.txt5 h1 {
+    margin: 0;
+    font-weight: 500;
+}
+
+.txt6 h1 {
+    margin: 0;
+    font-weight: 500;
+}
+
+.txt7 h1 {
+    margin: 0;
+    font-weight: 500;
+}
+
+.txt8 h1 {
+    margin: 0;
+    font-weight: 500;
+}
+
+.txt1 {
+    margin: 0;
+    font-size: 14px;
+    color: #fff;
+    line-height: 55px;
+    text-align: center;
+}
+
+.txt2 {
+    margin: 0;
+    font-size: 14px;
+    color: #fff;
+    line-height: 32px;
+    text-align: center;
+}
+
+.txt3 {
+    margin: 0;
+    font-size: 14px;
+    color: #fff;
+    text-align: center;
+    line-height: 56px;
+}
+
+.txt4 {
+    margin: 0;
+    font-size: 14px;
+    line-height: 17px;
+    color: #fff;
+    text-align: center;
+}
+
+.txt5 {
+    margin: 0;
+    font-size: 14px;
+    text-align: center;
+    color: #fff;
+    line-height: 0px;
+}
+
+.txt6 {
+    margin: 0;
+    font-size: 14px;
+    color: #fff;
+    line-height: 51px;
+    text-align: center;
+}
+
+.txt7 {
+    margin: 0;
+    font-size: 14px;
+    color: #fff;
+    line-height: 31px;
+    text-align: center;
+}
+
+.txt8 {
+    margin: 0;
+    font-size: 14px;
+    line-height: 47px;
+    color: #fff;
+    text-align: center;
+}
+
+.secondlogos5 {
+    width: 117px;
+    margin-left: 61px;
+}
+
+.secondlogos6 {
+    width: 75px;
+    margin-left: 84px;
+    margin-top: 7px;
+}
+
+.secondlogos7 {
+    width: 94px;
+    margin-left: 69px;
+}
+
+.secondlogos8 {
+    width: 78px;
+    margin-left: 83px;
+    margin-top: 9px;
+}
+
+#secondchild0 {
+    margin: 4px;
+    border-radius: 5px;
+    height: 150px;
+    cursor: pointer;
+}
+
+#secondchild1 {
+    margin: 4px;
+    border-radius: 5px;
+    height: 150px;
+    cursor: pointer;
+}
+
+#secondchild2 {
+    margin: 4px;
+    border-radius: 5px;
+    height: 150px;
+    cursor: pointer;
+}
+
+#secondchild3 {
+    margin: 4px;
+    border-radius: 5px;
+    height: 150px;
+    cursor: pointer;
+}
+
+#secondchild4 {
+    margin: 4px;
+    border-radius: 5px;
+    height: 150px;
+    cursor: pointer;
+}
+
+#secondchild5 {
+    margin: 4px;
+    border-radius: 5px;
+    height: 150px;
+    cursor: pointer;
+}
+
+#secondchild6 {
+    margin: 4px;
+    border-radius: 5px;
+    height: 150px;
+    cursor: pointer;
+}
+
+#secondchild7 {
+    margin: 4px;
+    border-radius: 5px;
+    height: 150px;
+    cursor: pointer;
+}
+
+#secondchild8 {
+    margin: 4px;
+    border-radius: 5px;
+    height: 150px;
+    cursor: pointer;
+}
+
+.logos2 {
+    width: 163px;
+    margin-top: -8px;
+}
+
+.logos3 {
+    padding-left: 14px;
+    width: 84%;
+    margin-top: 30px;
+}
+
+.logos4 {
+    width: 90%;
+    padding-left: 7px;
+    margin-top: 28px;
+}
+
+.logos5 {
+    width: 90%;
+    padding-left: 9px;
+    margin-top: 31px;
+}
+
+.logos6 {
+    width: 56%;
+    padding-left: 36px;
+    margin-top: 0px;
+}
+
+.logos7 {
+    width: 66%;
+    padding-left: 27px;
+    margin-top: 8px;
+}
+
+.logos8 {
+    width: 80%;
+    padding-left: 16px;
+    margin-top: 17px;
+}
+
+.child {
+    margin: 4px;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+.image {
+    float: left;
+    margin-left: 555px;
+    width: 255px;
+    cursor: pointer;
+}
+
+._image {
+    width: 60px;
+    margin-top: 32px;
+    height: 60px;
+    cursor: pointer;
+}
+
+.ru_icon {
+    float: right;
+    width: 50px;
+    cursor: pointer;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+
+.en_icon {
+    float: right;
+    margin-top: 10px;
+    cursor: pointer;
+    width: 50px;
+}
+
+.az_icon {
+    float: right;
+    margin-top: 10px;
+    cursor: pointer;
+    width: 50px;
+}
